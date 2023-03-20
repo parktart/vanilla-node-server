@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-node-server",
+  "version": "1.0.0",
+  "description": "Implementing a vanilla node server and deploying to Firebase!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parktart/vanilla-node-server.git"
+  },
+  "author": "Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parktart/vanilla-node-server/issues"
+  },
+  "homepage": "https://github.com/parktart/vanilla-node-server#readme"
+}
